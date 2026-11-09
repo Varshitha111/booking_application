@@ -1,0 +1,6 @@
+booking_id,guest_name,mobile,email,room_no,room_type,guests,check_in,check_out,status,room_charges,extra_guest_charges,long_stay_discount,loyalty_discount,gst,total_amount,refund_amount
+1,harshitha,9000000001,harsh@gmail.com,201,Deluxe,2,2026-11-11,2026-11-12,CHECKED_OUT,4700,0,0,0,564,5264,0
+2,harshitha,9704069917,harshitha@gmail.com,301,Suite,2,2026-11-22,2026-11-23,CANCELLED,7500,0,0,0,900,8400,8400
+3,harshitha,9704069917,harshitha@gmail.com,101,Standard,2,2026-11-21,2026-11-22,CANCELLED,3700,0,0,0,444,4144,4144
+4,harini,6300330350,harini@gmail.com,101,Standard,2,2026-11-09,2026-11-11,CHECKED_OUT,5000,0,0,0,600,5600,0
+5,varshitha,6305635690,varsh@gmail.com,101,Standard,2,2026-11-15,2026-11-16,CHECKED_OUT,2500,0,0,0,300,2800,0
